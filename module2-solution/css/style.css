@@ -1,0 +1,47 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: arial, sans-serif;
+	box-sizing: border-box;
+}
+div.allContent{
+
+}
+h1{
+	text-align: center;
+	margin: 45px;
+}
+div.allContect{
+	float:left;
+}
+
+div.section {
+	
+	width: 32%;
+	background: gray;
+	height: 200px;
+	clear:right;
+	border:3px solid black;
+    overflow: hidden;
+}
+div h2{
+	float:right;
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
+	padding: 2px 30px 2px 30px;
+	
+}
+div.section p{
+	clear:right;
+    padding: 10px;
+}
+#catergory_1 {
+	background-color:#D59898;
+}
+#catergory_2{
+    background-color: #C14543;
+}
+#catergory_3{
+	background-color: #E5D198;
+
+}
